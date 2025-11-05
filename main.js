@@ -1,6 +1,7 @@
 Game.registerMod("MinecraftClicker", {
     init: function() {
         Game.Notify(`Welcome to Minecraft Clicker!`, `The mod loading is complete.`, [16, 5, this.dir + '/img/modicon.png']);
+        Game.Notify(`This was compiled and rewrote by Jacob Pierce`, `Enjoy and have fun`);
 
         const MOD = this;
         const dir = this.dir || '';
@@ -390,3 +391,4 @@ Game.registerMod("MinecraftClicker", {
         };
     }
 });
+

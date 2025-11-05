@@ -1,0 +1,12 @@
+{
+	"Name": "Minecraft Clicker",
+	"ID": "MinecraftClicker",
+	"Author": "Dim-Dimych",
+	"Description": "This mod replaces the textures and music from Cookie Clicker with their counterparts from the game Minecraft.",
+	"ModVersion": 2,
+	"GameVersion": 2.04,
+	"Date": "13/08/2021",
+	"Disabled": 1,
+	"AllowSteamAchievs": 1,
+	"LanguagePacks": ["lang.js"]
+}
